@@ -1,0 +1,13 @@
+# Binaarfailid — need ei kuulu GitHubi
+*.docx
+*.pptx
+*.pdf
+*.xlsx
+# Pildifailid — kui on väga suured
+# Binaarfailid — need ei kuulu GitHubi
+*.docx
+*.pptx
+*.pdf
+*.xlsx
+# Pildifailid — kui on väga suured
+02S Nädal 1 — Klient
