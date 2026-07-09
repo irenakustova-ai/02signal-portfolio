@@ -1,0 +1,71 @@
+# Enne–Pärast võrdlus: AI kursuse prompt
+
+## ENNE (lihtne prompt)
+
+```text
+
+Selgita mulle NotebookLM-i ja n8n-i.
+
+```
+
+---
+
+## PÄRAST (struktureeritud prompt)
+
+```text
+
+Olen AI kursuse õpilane ja alles alustan nende tööriistade õppimist.
+
+Selgita mulle lihtsas eesti keeles:
+
+1. Mis on NotebookLM?
+
+2. Mis on n8n?
+
+3. Mille poolest need erinevad?
+
+4. Millal kasutatakse NotebookLM-i ja millal n8n-i?
+
+5. Too üks praktiline näide mõlema tööriista kasutamisest minu olukorras.
+
+Taust:
+
+- Mul puudub programmeerimise kogemus.
+
+- Õpin AI-d, et arendada oma loovettevõtet ja muuta tööprotsesse tõhusamaks.
+
+- Soovin saada selge ülevaate enne, kui hakkan neid tööriistu kasutama.
+
+Palun:
+
+- väldi tehnilist žargooni;
+
+- selgita samm-sammult;
+
+- kasuta lihtsaid näiteid;
+
+- lõpeta lühikese kokkuvõttega, kumma tööriista võiksin esimesena õppida ja miks.
+
+```
+
+---
+
+## Lühike analüüs
+
+**Enne:**
+
+- Küsimus on liiga üldine.
+
+- AI ei tea minu teadmiste taset ega eesmärki.
+
+- Vastus võib olla liiga tehniline või mitte piisavalt praktiline.
+
+**Pärast:**
+
+- Prompt kirjeldab minu tausta ja eesmärki.
+
+- On selgelt kirjas, millist infot ma soovin.
+
+- Vastuse vorm (sammud, näited, kokkuvõte) on ette määratud.
+
+- Tulemuseks on minu vajadustele paremini sobiv ja praktilisem vastus.
